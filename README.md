@@ -14,7 +14,7 @@ index.html
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar do Enzo" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Enzo Matheus_</p>
         <h1>Eu estudo Programação</h1>
